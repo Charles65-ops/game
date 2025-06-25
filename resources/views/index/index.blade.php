@@ -10,7 +10,7 @@
     @vite('resources/css/index/index.css')
 </head>
 
-<body style="background-color: #303F9F">
+<body style="background-color: #707bc5">
     <div class="terminal">
         TESTE
     </div>
